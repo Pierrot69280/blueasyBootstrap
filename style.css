@@ -1,0 +1,16 @@
+.services {
+    background-color: #4bcaff;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 25px;
+}
+
+.borde {
+    border: 3px #4bcaff;
+}
+
