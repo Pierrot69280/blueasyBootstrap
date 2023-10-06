@@ -1,3 +1,7 @@
+html {
+    overflow-x: hidden;
+}
+
 .services, .twitter{
     background-color: #4bcaff;
     padding: 20px;
@@ -59,3 +63,4 @@ a {
     text-decoration: none;
     color: white;
 }
+
