@@ -1,5 +1,6 @@
-.services {
+.services, .twitter{
     background-color: #4bcaff;
+    padding: 20px;
 }
 
 .menu a {
@@ -10,7 +11,51 @@
     font-size: 25px;
 }
 
-.borde {
-    border: 3px #4bcaff;
+.bgcolor {
+    background-color: #8cb3d7;
+    padding: 20px;
 }
 
+.terminals{
+    padding: 20px;
+}
+
+input[type="text"],
+input[type="email"]
+{
+
+    border-color: white;
+    width: 15cm;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #8cb3d7
+}
+
+.textArea {
+    border-color: white;
+    background-color: #8cb3d7;
+    width: 35cm;
+    height: 5cm;
+}
+
+.button {
+    color: white;
+    border: none;
+    background-color: #4bcaff;
+    height: 1.5cm;
+    width: 8cm;
+}
+
+.buttonVisit {
+    width: 5cm;
+    height: 1.5cm;
+    border: 1px solid black}
+
+.copi {
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
